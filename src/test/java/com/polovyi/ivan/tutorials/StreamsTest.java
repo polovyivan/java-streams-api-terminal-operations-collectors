@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class StreamsTest {
 
     @Test
-    public void testSortByCashBack_A() {
+    public void test() {
 
     }
 
